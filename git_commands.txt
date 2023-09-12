@@ -1,3 +1,6 @@
 git add .
 git commit -m "text files"
-git push -u origin master
+git push
+
+
+hello
